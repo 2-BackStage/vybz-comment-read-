@@ -59,4 +59,9 @@ public class CommentRead {
         this.likeCount = likeCount;
 
     }
+
+    public void setLikeCount(int likeCount) {
+        this.likeCount = likeCount;
+    }
+
 }
