@@ -2,7 +2,7 @@ name: CI/CD Docker Deploy to EC2 comment-read-service
 
 on:
   push:
-    branches: [ main ]
+    branches: [ dev ]
 
 jobs:
   build:
